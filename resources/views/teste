@@ -1,0 +1,17 @@
+ <li class="flex justify-between">
+                            <div class="inline-flex">
+                                <div class="ml-3">
+                                    <p class="text-xl font-medium text-gray-600">Resumo do pedido</p>
+                                    <p class="text-4xl font-medium text-opacity-80">R$ 51,90<span class="text-xs font-normal text-opacity-80 text-gray-600">por mês</span></p>
+                                </div>
+                            </div>
+                        </li>
+                        {{--<li class="flex justify-between ">
+                            <div class="inline-flex">
+                                <div class="ml-3 mt-5">
+                                    <p class="text-base font-semibold text-gray-600">+Saúde Familiar</p>
+                                    <p class="text-xs font-normal text-opacity-80 text-gray-600">A partir de 2 vidas (Max. 9)</p>
+                                </div>
+                            </div>
+                            <p class="text-sm font-semibold text-gray-600 mt-5">R$34,90</p>
+                        </li>--}}
